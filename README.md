@@ -1,4 +1,5 @@
 📘 Customer Churn Prediction – Bank Dataset
+
 🔍 Objective
 The aim of this project is to predict which customers are likely to leave the bank using a classification model. Understanding churn behavior can help banks take preemptive action to retain high-risk customers.
 
@@ -71,7 +72,9 @@ Run all cells sequentially.
 View performance metrics and feature importance chart.
 
 
+
 ✅ Conclusion
+
 This project successfully demonstrates a predictive approach to identifying customer churn in a banking context using machine learning. After cleaning and preprocessing the dataset, a Random Forest Classifier was trained and achieved an accuracy of 86.6%.
 
 The analysis revealed that customer age, account balance, salary, and product engagement are the most significant predictors of churn. Specifically, older and less engaged customers with high balances are more likely to leave the bank.
