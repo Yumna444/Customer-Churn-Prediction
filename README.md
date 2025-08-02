@@ -1,6 +1,7 @@
 📘 Customer Churn Prediction – Bank Dataset
 
 🔍 Objective
+
 The aim of this project is to predict which customers are likely to leave the bank using a classification model. Understanding churn behavior can help banks take preemptive action to retain high-risk customers.
 
 📁 Dataset
